@@ -1,5 +1,7 @@
 site_name: XR Design Documentation
 site_description: Documentation for XR Design System for Siemens
+repo_name: 3DXR_Design-docs
+repo_url: https://github.com/knorrsoupy/3DXR_Design-documentation
 theme:
   name: material
   font:
