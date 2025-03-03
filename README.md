@@ -8,5 +8,5 @@ Step 3: type <b>mkdocs new . </b> to create a template of mkdocs <br>
 Step 4: type <b>mkdocs serve </b>to see in localhost
 
 ## Github Actions Workflow
-Step 1: Go to Settings -> Pages -> Change the branch to gh-pages. DONE
-Afer creating the mkdocs, github actions are to be followed.
+Step 1: Go to Settings -> Pages -> Change the branch to gh-pages. DONE <br>
+After creating the mkdocs, github actions are to be followed.
