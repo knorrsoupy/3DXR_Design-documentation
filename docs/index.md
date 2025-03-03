@@ -1,20 +1,20 @@
-# Welcome to MkDocs
+# **Introduction 3D XR Design System**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the **3D XR Design System**—a structured framework for creating immersive, interactive, and accessible XR experiences. This system provides guidelines, reusable components, and best practices for designing **navigation, UI, and interactions** in extended reality (XR).
 
-## Commands
+## **Why Use This Design System?**
+- **Consistency**: Standardized UI elements and navigation patterns for XR.
+- **Accessibility**: Guidelines to ensure usability for diverse users.
+- **Performance**: Optimized assets and interaction models.
+- **Scalability**: Modular approach for easy integration across projects.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+!!! info "**Who is This For?**"
 
-## Project layout
+    This system is designed for **XR designers, developers, and researchers** looking to create intuitive and efficient **3D user interfaces** for AR, VR, and MR applications.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-
-I like to drink :beer: AFTER I PLAYED :soccer:
+## **What’s Inside?**
+- 📌 **Navigation Patterns** – Movement, UI placement, and interaction strategies.
+- 🖥 **HUD & UI Interfaces** – Diegetic and non-diegetic UI guidelines.
+- ⚡ **Components & Features** – UI elements, prefabs, and haptic feedback.
+- 📜 **Code & Implementation** – API references, sample scripts, and examples.
+- 📏 **Design Guidelines** – Layout, color, typography, and accessibility principles.
