@@ -7,8 +7,8 @@ theme:
   font:
     text: Inter
     code: Red Hat Mono
-  logo: ./assets/images/logo_soup.svg # Path to the logo image
-  favicon: ./assets/images/logo_soup.svg # Path to the favicon image
+  logo: ./assets/images/XR3D.svg # Path to the logo image
+  favicon: ./assets/images/XR3D.svg # Path to the favicon image
   feature:
     - navigation.footer
   palette:
