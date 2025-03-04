@@ -1,5 +1,9 @@
-site_name: XR Design Documentation
-site_description: Documentation for XR Design System for Siemens
+site_name: Design Documentation
+site_description: Documentation for XR Design System
+site_author: Souparna Roy
+site_url: https://knorrsoupy.github.io/3DXR_Design-documentation/
+site_language: en
+site_keywords: XR, Design, System, 3DXR, Design System, XR Design System, XR Design System
 repo_name: 3DXR_Design-docs
 repo_url: https://github.com/knorrsoupy/3DXR_Design-documentation
 theme:
@@ -9,8 +13,15 @@ theme:
     code: Red Hat Mono
   logo: ./assets/images/XR3D.svg # Path to the logo image
   favicon: ./assets/images/XR3D.svg # Path to the favicon image
-  feature:
-    - navigation.footer
+  features:
+     - navigation.path
+     - navigation.instant
+     - navigation.instant.prefetch
+     - navigation.expand
+     - navigation.footer
+     - navigation.tracking
+     - navigation.indexes
+     - toc.integrate
   palette:
     # Dark Mode
     - scheme: slate
@@ -27,7 +38,16 @@ theme:
         name: Light mode
       primary: teal
       accent: teal
-
+nav:
+  - Overview: index.md
+  - Getting Started: getting-started.md
+  - Concept Preview: core-concepts.md
+  - Core Components:
+      - Navigation : 
+          - Navigation Types: navigation-patterns.md
+          - Usecases : nav-usecases.md
+      - HUD (Heads Up Display) : hud-ui-interfaces.md
+  
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:

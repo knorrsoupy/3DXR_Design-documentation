@@ -1,4 +1,4 @@
-# **Navigation Patterns**
+# **Usecases and Solution**
 
 Navigation is crucial in XR, ensuring **comfort, accessibility, and efficiency**. This section covers different movement techniques and menu placement strategies.
 We will also list down the navigation patterns along with its use cases:

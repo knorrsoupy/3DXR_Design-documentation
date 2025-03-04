@@ -1,4 +1,4 @@
-# HUD & UI Interfaces
+# **HUD & UI Interfaces**
 
 User interfaces in XR differ from traditional 2D screens. This section covers best practices for designing **HUD elements, diegetic UI, and interactive menus**.
 

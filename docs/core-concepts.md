@@ -1,4 +1,4 @@
-# Core Concepts
+# **Concept Preview**
 
 XR design requires a balance of **usability, immersion, and performance**. This section covers the fundamental principles that guide our **3D XR Design System**.
 

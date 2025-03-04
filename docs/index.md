@@ -1,4 +1,4 @@
-# **Introduction 3D XR Design System**
+# **Overview**
 
 Welcome to the **3D XR Design System**—a structured framework for creating immersive, interactive, and accessible XR experiences. This system provides guidelines, reusable components, and best practices for designing **navigation, UI, and interactions** in extended reality (XR).
 
@@ -10,7 +10,7 @@ Welcome to the **3D XR Design System**—a structured framework for creating imm
 
 !!! info "**Who is This For?**"
 
-    This system is designed for **XR designers, developers, and researchers** looking to create intuitive and efficient **3D user interfaces** for AR, VR, and MR applications.
+    This system is designed for **XR designers, developers, and researchers** looking to create intuitive and efficient **3D user interfaces** for AR, VR, and MR for industrial metaverse.
 
 ## **What’s Inside?**
 - 📌 **Navigation Patterns** – Movement, UI placement, and interaction strategies.
