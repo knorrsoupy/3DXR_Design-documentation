@@ -45,7 +45,8 @@ nav:
   - Core Components:
       - Navigation : 
           - Navigation Types: navigation-patterns.md
-          - Usecases : nav-usecases.md
+          - Usecases and Components : nav-usecases.md
+          - Code Snippets : nav-code-snippets.md
       - HUD (Heads Up Display) : hud-ui-interfaces.md
   
 markdown_extensions:
@@ -69,6 +70,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption

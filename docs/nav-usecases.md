@@ -1,26 +1,42 @@
-# **Usecases and Solution**
+# **Usecases and Components**
+These are some of the use cases identified for the **XR Design System for navigation** in in a virtual world. This list is not exhaustive and may evolve as new types and patterns are discovered in the future.
 
-Navigation is crucial in XR, ensuring **comfort, accessibility, and efficiency**. This section covers different movement techniques and menu placement strategies.
-We will also list down the navigation patterns along with its use cases:
+## **Use Cases**
+<div class="grid cards" markdown>
 
-## **Locomotion Methods**
-!!! info "**Teleportation**"
-    - Best for **reducing motion sickness**.
-    - Uses an arc-based pointer for destination selection.
+-   ### **Straight Path**
+    ---
+    
+    ![Path](./assets/images/navigation%20images/Path.png){ width="180" }  
+    A directional indicator that guides the user towards a designated target or a destination.
 
-!!! info "**Movement Provider**"
-    - Joystick-controlled movement similar to traditional games.
-    - Can cause motion sickness — **recommended to use vignette effects to reduce discomfort.**
+-   ### **Turning**
+    ---
+    
+    ![Turning Left](./assets/images/navigation%20images/Turning.png){ width="180" }  
+    A directional indicator that guides the user towards a designated target or destination when there is a change in the path's direction.
 
-!!! info "**Continuous Turn Provider**"
-    - Enables **continuous rotation**, more fluid in terms of interaction and immersiveness.
-    !!! Warning "May cause motion sickness"
+-   ### **Staircase**
+    ---
+    
+    ![Staircase](./assets/images/navigation%20images/stair.png){ width="180" }  
+    Users must navigate staircases smoothly in XR without discomfort or disorientation. Indicator to show stairs is needed.
 
+-   ### **Ramp Case**
+    ---
+    
+    ![Ramp](./assets/images/navigation%20images/ramp-case.png){ width="180" }  
+    The design system should support gradual elevation changes, seamless locomotion, and clear visual cues to prevent disorientation and enhance immersion.
 
-!!! info "**Snap Turn Provider**"
-    - Enables **instant rotation** in set increments, helping prevent motion sickness.
-    - Generally, it is recommended to use but sacrifices on immersion.
+-   ### **Caution Indicator**
+    ---
+        
+    ![Caution Indicator](./assets/images/navigation%20images/Caution_Mark.png){ width="180" }  
+    In environments such as factories, potential hazards may arise. A caution indicator is essential to alert users to these dangers, ensuring safe navigation within the virtual world.
 
-## **Hybrid Movement**
-- Combines **teleportation & joystick movement**.
-- Useful for applications requiring **precise & large-scale movement**.
+-   ### **Narrow Path Indicator**
+    ---
+
+    ![Narrow Path Indicator](./assets/images/navigation%20images/narrow-path.png){ width="180" }  
+    An indicator to alert users when navigating through narrow paths, ensuring they are aware of the restricted space and can proceed with caution.
+</div>
