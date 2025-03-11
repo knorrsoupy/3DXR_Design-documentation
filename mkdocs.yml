@@ -46,6 +46,7 @@ nav:
       - Navigation : 
           - Navigation Types: navigation-patterns.md
           - Usecases and Components : nav-usecases.md
+          - How to Use : nav-how-to-use.md
           - Code Snippets : nav-code-snippets.md
       - HUD (Heads Up Display) : hud-ui-interfaces.md
   
